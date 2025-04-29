@@ -56,4 +56,5 @@ This repository contains the source code for a basic Android application that de
 ## 📬 Contact
 - For questions or feedback, reach out to [VoMinhTrung103](https://github.com/VoMinhTrung103)
 
-🔗 **Watch Demo**: [YouTube Video](https://youtube.com/shorts/LK_mIOFSbu8?feature=share)
+[![Watch the video](https://img.youtube.com/vi/LK_mIOFSbu8/hqdefault.jpg)](https://youtube.com/shorts/LK_mIOFSbu8?feature=share)
+
